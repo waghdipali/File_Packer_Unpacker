@@ -4,16 +4,16 @@ This Project is Based On Zipping And Unzipping The Directory
 # PLATFORM REQUIRED :
 Windows Platform Or Linux Distributions.
 
-ARCHITECTURAL REQUIREMENT :
+# ARCHITECTURAL REQUIREMENT :
 INTEL 32 Bit Processor Or Higher.
 
-USER INTERFACE :
+# USER INTERFACE :
 Command Line Interface And GUI
 
-TECHNOLOGY USED :
+# TECHNOLOGY USED :
 Java Programming.
 
-About This Application :
+# About This Application :
 1) This Application Is Used To Perform Packing And Unpacking Activity For Multiple Types Of Files. 
 
 2) In Case Of Packing Activity I Maintain One File Which Contains Metadata And Data Of Multiple Files From Specified Directory. 
