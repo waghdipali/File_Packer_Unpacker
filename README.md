@@ -1,7 +1,7 @@
 # File_Packer_Unpacker
 This Project is Based On Zipping And Unzipping The Directory
 
-PLATFORM REQUIRED :
+# PLATFORM REQUIRED :
 Windows Platform Or Linux Distributions.
 
 ARCHITECTURAL REQUIREMENT :
